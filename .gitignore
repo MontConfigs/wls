@@ -1,41 +1,37 @@
-# Compiled Lua sources
-luac.out
-
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
-
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+{
+  "Owner": [
+    {"id": ""}
+  ],
+  "Private": [
+    {"id": "4962496993"},
+    {"id": "4860178747"},
+    {"id": ""},
+    {"id": ""},
+    {"id": ""}
+  ],
+  "Booster": [
+    {"id": ""},
+    {"id": ""},
+    {"id": ""},
+    {"id": ""},
+    {"id": ""},
+    {"id": ""},
+    {"id": ""},
+    {"id": ""},
+  ],
+  "tags": [
+    {"userid": "4962496993", "tag": "SALAD", "color": "purple"},
+    {"userid": "4946005783", "tag": "Mont BFF", "color": "purple"},
+    {"userid": "1491640729", "tag": "", "color": "blue"},
+    {"userid": "4899951833", "tag": "", "color": "yellow"},
+    {"userid": "4967428276", "tag": "KINGKOYAA", "color": "blue"},
+    {"userid": "4816892911", "tag": "", "color": "purple"},
+    {"userid": "4852452175", "tag": "", "color": "yellow"},
+    {"userid": "4740013223", "tag": "", "color": "cyan"},
+    {"userid": "4931123293", "tag": "", "color": "purple"},
+    {"userid": "4953955513", "tag": "", "color": "pink"},
+    {"userid": "4973903878", "tag": "", "color": "purple"},
+    {"userid": "4957242425", "tag": "", "color": "purple"},
+    {"userid": "4970760307", "tag": "", "color": "red"}
+  ]
+}
